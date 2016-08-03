@@ -38,7 +38,6 @@
     ],
      'description': """
     Account Invoice supplier reference tree
-    =======================================
 
     This modules adds a filter on supplier invoice number (reference in 9.0) in the search field for invoices and in the tree view.
 
