@@ -25,7 +25,7 @@
 #
 {
     "name": "Invoice number",
-    "version": "9.0.0",
+    "version": "9.0.1.0",
     "author": "Vauxoo & AbAKUS it-solutions",
     "category": "Accounting",
     "website": "http://www.vauxoo.com/",
